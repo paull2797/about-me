@@ -1,8 +1,8 @@
-Paul Liu 
+#**Paul Liu** 
 
-paull2797@hstat.org 
+_Student_
 
-Highschool of Telecommunications Arts and Technology (HSTAT)
+**Highschool of Telecommunications Arts and Technology (HSTAT)**
 
 I am a junior at HSTAT. I enjoy videogames and other forms of technology
 
