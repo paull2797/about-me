@@ -4,7 +4,7 @@ _Student_
 
 **Highschool of Telecommunications Arts and Technology (HSTAT)**
 
-paull2797@hstat.org 
+**paull2797@hstat.org**
 
 I am a junior at HSTAT. I enjoy videogames and other forms of technology
 
