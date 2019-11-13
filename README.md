@@ -6,7 +6,7 @@ _Student_
 
 **paull2797@hstat.org**
 
-I am a junior at HSTAT. I enjoy videogames and other forms of technology
+I was born in Brooklyn, New York in the year 2003. I am currently attending HSTAT High School. I am not sure what job I'll apply for in the future.
 
 Schedule 
 
