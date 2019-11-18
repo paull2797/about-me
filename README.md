@@ -1,4 +1,4 @@
-# **Paul Liu**
+# **Paul Liu** #
 
 ## Student
 
@@ -8,7 +8,7 @@
 
 I was born in Brooklyn, New York in the year 2003. I am currently attending HSTAT High School as a junior. I am not sure what job I'll apply for in the future.
 
-_Schedule_ 
+Schedule :
 
 1. Statistics 
 2. SEP 11 
