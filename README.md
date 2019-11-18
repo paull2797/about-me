@@ -1,10 +1,10 @@
-**_Paul Liu_**
+# **Paul Liu**
 
-_Student_
+## Student
 
-**[Highschool of Telecommunications Arts and Technology (HSTAT)](http://www.hstat.org)**
+#### **[Highschool of Telecommunications Arts and Technology (HSTAT)](http://www.hstat.org)**
 
-**paull2797@hstat.org**
+#### **paull2797@hstat.org**
 
 I was born in Brooklyn, New York in the year 2003. I am currently attending HSTAT High School as a junior. I am not sure what job I'll apply for in the future.
 
